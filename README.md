@@ -1,5 +1,5 @@
 # Hike
-Java project for TietoEVRY internship
+Java project for TietoEVRY internship.
 Projektą galima paleisti naudojant tomcat HTTP serverį.
 Norint įvesti pradinius duomenis ir gauti atsakymą reikia siųsti užklausą pagal šią nuorodą:
 http://localhost:8080/Hike_war_exploded/hike/{distance}/{season}/{numberOfPeople}/{numberOfPets}.
